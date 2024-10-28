@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://umoyiavo.github.io/sitemap_index.umoyiavo
